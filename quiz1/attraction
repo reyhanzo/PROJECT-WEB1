@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="tampilan1.css" /> 
+		<title>This is me</title>
+	</head>
+
+	<body>
+		<div id="top">
+		<h1>My Site</h1>
+		<p class = "class1">Jadi kali ini saya akan membuat sebuah kisah mengenai web saya</p>
+		</div>
+		
+		<div class="topnav">
+  			<a class="active" href="homepage.html">Home</a>
+ 			  <a href="profile.html">Profile</a>
+  			<a href="food.html">Food</a>
+  			<a href="attraction.html">Attraction</a>
+  			<a href="hometown.html">Hometown</a>
+		</div>
+
+		<div id="middle">
+			<h2>About My Hometown Attraction</h2>
+			<P>Di Surabaya, ini banyak objek wisata yg bisa dikunjungi loh, terutama ada unik dan fotogenik, sehingga tempat tersebut terkenal dikalangan orang Surabaya</P>
+			<p>Disini saya akan menjelaskan 5 wisata Surabaya yang bagus untuk dijelajahi</p>
+		<ol start="1" type="1">
+			<li>
+					<b>Kenjeran Park Surabaya</b>
+					<br>
+					<img src="kenjeran.jpg", alt="Kenjeran Park Surabaya", width="500", height="300">
+					<p>Pantai Kenjeran merupakan salah satu objek wisata terkenal di Surabaya. Sayangnya, pantai ini mulai sepi peminat lantaran kondisinya yang kurang terjaga dan penuh dengan sampah. Tapi kini ada tujuan wisata baru di sekitar Pantai Kenjeran, tepatnya 1 km dari pantai yang lama. Objek wisata ini biasa dikenal degan Kenpark alias Kenjeran Park. Ada banyak objek menarik yang bisa dikunjungi di Kenpark salah satunya adalah klenteng Sanggar Agung yang berdiri dengan megah di pinggir laut. Ada juga tiruan Temple of Heaven di Cina yang banyak dijadikan lokasi berfoto para wisatawan.</p>
+					
+					<p><b>Lokasi:</b> :  Jl. Pantai Kenjeran, Sukolilo Baru, Bulak, Kota Surabaya</p>
+				</li>
+				<li>
+					<b>Air Mancur Menari</b>
+					<br>
+					<img src="airmancur.jpg", alt="Air Mancur Menari", width="500", height="300">
+					<p>Di sepanjang pesisir Pantai Kenjeran, dibangun jembatan sepanjang 800 meter dengan 3 lajur satu arah yang sangat megah. Di malam hari, jembatan ini semakin cantik dengan gemerlap lampu yang sengaja dipasang untuk menarik perhatian pengunjung. Bahkan, di lokasi ini ada spot khusus untuk selfie yang membuat Anda bisa mengabadikan pemandangan sempurna pada jembatan Kenjeran. Di jembatan ini Anda juga bisa melihat indahnya air mancur menari dengan iringan lagu khas Surabaya seperti Jembatan Merah.</p>
+					
+					<p><b>Lokasi:</b> :  Kenjeran, Kota Surabaya</p>
+				</li>
+				<li>
+					<b>Surabaya North Quay</b>
+					<br>
+					<img src="northquay.jpg", alt="Surabaya North Quay", width="400", height="300">
+					<p>Surabaya North Quay merupakan lokasi wisata yang terletak di lantai dua dan tiga gedung megah Terminal Gapura Surya Nusantara. Tempat ini biasa dijadikan lokasi bersandar kapal pesiar internasional. Di malam hari, Surabaya North Quay dipenuhi lampu sehingga pengunjung bisa menikmati pemadangan sepanjang Pelabuhan Tanjung Perak.</p>
+					
+					<p><b>Lokasi:</b> :  Perak Utara, Kota Surabaya</p>
+				</li>
+				<li>
+					<b>Kebun Binatang Surabaya (KBS)</b>
+					<br>
+					<img src="kbs.jpg", alt="KBS", width="400", height="300">
+					<p>Terlepas dari kontroversi yang sempat terjadi, Kebun Binatang Surabaya termasuk salah satu tertua di Indonesia. Menurut beberapa sumber berbeda, kebun binatang ini sudah berdiri sejak masa penjajahan Belanda. Total ada tak kurang dari 315 spesies binatang hidup di tempat ini.</p>
+
+					<p>Tiket masuk Kebun Binatang Surabaya terbilang cukup murah. Berkisar di angka 15 ribu rupiah untuk hari biasa dan 20 ribu rupiah untuk akhir pekan maupun hari libur. Teman Traveler bisa datang ke sini dengan naik kendaraan umum dari Terminal Bungurasih maupun Joyoboyo.</p>
+					
+					<p><b>Lokasi:</b> : Pusat Kota (Darmo), Wonokromo, Kota Surabaya</p>
+				</li>
+				<li>
+					<b>Monumen Kapal Selam</b>
+					<br>
+					<img src="monkasel.jpg", alt="Surabaya North Quay", width="400", height="300">
+					<p>Monumen Kapal Selam sejatinya adalah KRI Pasopati 410 yang sempat ikut berpartisipasi di operasi Trikora. Kapal tersebut kemudian dipensiunkan dan dijadikan monumen hingga kini.</p>
+					
+					<p>Di Monumen Kapal Selam alias Monkasel, Teman Traveler bisa melihat langsung interior sebuah kendaraan militer. Informasi mengenai sejarah dan sedikit gambaran pengoperasian kapal juga dicantumkan di sana. Pengunjung juga disuguhkan film pendek mengenai pertempuran di Laut Aru.</p>
+					
+					<p><b>Lokasi:</b> :  Jl Pemuda no 39, Embong Kaliasin, Genteng, Kota Surabaya</p>
+				</li>
+		</ol>
+		</div>
+		
+		<br>
+	</body>
+
+	<footer>
+		<p>2019, All Right Reserved......</p>
+		<a href="http://www.facebook.com/gauntler.saga" class="fa fa-facebook"></a>
+		<a href="http://www.twitter.com/rey_asura" class="fa fa-twitter"></a>
+		<a href="https://www.instagram.com/rey_hanzo/" class="fa fa-instagram"></a>
+	</footer>
+
+</html>
